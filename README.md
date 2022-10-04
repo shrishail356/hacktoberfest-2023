@@ -81,4 +81,4 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 
 ## Feedback
 
-Your feedback is appreciated. Please fill out this [form](https://ap6os32b27j.typeform.com/to/UUsVHrTC) to share your feedback and suggestions, or create an issue.
+Your feedback is appreciated. Please fill out this [form]() to share your feedback and suggestions, or create an issue.
